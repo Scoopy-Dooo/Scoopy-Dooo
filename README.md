@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Saad 
+- 💻 Frontend Web Developer
+- ⚡Electrical & Eloctronic Engineer AT UofK
+- 🌍 Sudan dreamer   
 
-<!--
-**Scoopy-Dooo/Scoopy-Dooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build responsive and clean web interfaces using modern frontend technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Responsive Design
+- Git & GitHub
+- Netlify
+
+---
+
+## 🚀 Projects
+- 🏋️ **FitCore Gym Website**  
+  🔗 https://sco-fitcore-gym.netlify.app/
+  📂 https://github.com/Scoopy-Dooo/2-FitCore-GYM
+
+*(More projects coming soon 🔥)*
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/Scoopy-Dooo
+- Email: mohammedclan123567@gmail.com
+- Whatsapp:  https://wa.me/+249903449009
+
+---
+
+⭐ Always learning and improving
