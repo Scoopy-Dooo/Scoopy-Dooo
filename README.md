@@ -32,6 +32,7 @@ Below are some of my key projects showcasing my skills in web development.
 | Whats-to-Cook   | Fun and simple random meal picker app using JavaScript for quick meal ideas.                | [GitHub](https://github.com/Scoopy-Dooo/7-Whats-to-Cook)         | [Live Demo](https://sco-whats-to-cook.netlify.app)       |
 | Contact Hub       | Contact management UI to add, view, and delete contacts with vanilla JS.                    | [GitHub](https://github.com/Scoopy-Dooo/8-Contact-Hub)           | [Live Demo](https://sco-contact-manager.netlify.app)         |
 
+- And more Projects will be here soon 😁
 ---
 
 ## 📫 Get In Touch
