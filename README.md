@@ -23,14 +23,14 @@ Below are some of my key projects showcasing my skills in web development.
 
 | Project Name                        | Description                                            | GitHub Repository                                             | Live Demo                                       |
 |-----------------------------------|--------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------|
-| Clarity              | Modern, responsive landing page for a Digital Solutions company built with HTML, CSS & JS.    | [GitHub](https://github.com/Scoopy-Dooo/1-Clarity)               | [Live Demo](https://sco-clarity.netlify.app)             |
-| FitCore GYM      | Fitness website with dynamic UI showcasing workouts and features.                           | [GitHub](https://github.com/Scoopy-Dooo/2-FitCore-GYM)           | [Live Demo](https://sco-fitcore-gym.netlify.app)         |
-| DJI Drone           | Promotional landing page for DJI drones with smooth animations and responsive design.       | [GitHub](https://github.com/Scoopy-Dooo/3-DJI-Drone)             | Live Demo           |
-| The UX Reviews | UX review website showcasing user feedback and product evaluations with clean UI.           | [GitHub](https://github.com/Scoopy-Dooo/4-The-UX-Reviews)        | [Live Demo](https://sco-ux-reviews.netlify.app)      |
-| Modabber             | Modern blog layout template for content creators and writers.                              | [GitHub](https://github.com/Scoopy-Dooo/5-Modabber)              | [Live Demo](https://sco-modabber.netlify.app)            |
-| Gama Arena         | E-sports gaming platform landing page with vibrant design and interactive elements.        | [GitHub](https://github.com/Scoopy-Dooo/6-Gama-Arena)            | [Live Demo](https://sco-game-arena.netlify.app)          |
-| Whats-to-Cook   | Fun and simple random meal picker app using JavaScript for quick meal ideas.                | [GitHub](https://github.com/Scoopy-Dooo/7-Whats-to-Cook)         | [Live Demo](https://sco-whats-to-cook.netlify.app)       |
-| Contact Hub       | Contact management UI to add, view, and delete contacts with vanilla JS.                    | [GitHub](https://github.com/Scoopy-Dooo/8-Contact-Hub)           | [Live Demo](https://sco-contact-manager.netlify.app)         |
+| Clarity              | Modern, responsive landing page for a Digital Solutions company built with HTML, CSS & JS.    | [GitHub](https://github.com/Scoopy-Dooo/1-Clarity)               | [Click to Visit Website](https://sco-clarity.netlify.app)             |
+| FitCore GYM      | Fitness website with dynamic UI showcasing workouts and features.                           | [GitHub](https://github.com/Scoopy-Dooo/2-FitCore-GYM)           | [Click to Visit Website](https://sco-fitcore-gym.netlify.app)         |
+| DJI Drone           | Promotional landing page for DJI drones with smooth animations and responsive design.       | [GitHub](https://github.com/Scoopy-Dooo/3-DJI-Drone)             | [Click to Visit Website](https://sco-dji-drone.netlify.app)           |
+| The UX Reviews | UX review website showcasing user feedback and product evaluations with clean UI.           | [GitHub](https://github.com/Scoopy-Dooo/4-The-UX-Reviews)        | [Click to Visit Website](https://sco-ux-reviews.netlify.app)      |
+| Modabber             | Modern blog layout template for content creators and writers.                              | [GitHub](https://github.com/Scoopy-Dooo/5-Modabber)              | [Click to Visit Website](https://sco-modabber.netlify.app)            |
+| Gama Arena         | E-sports gaming platform landing page with vibrant design and interactive elements.        | [GitHub](https://github.com/Scoopy-Dooo/6-Gama-Arena)            | [Click to Visit Website](https://sco-game-arena.netlify.app)          |
+| Whats-to-Cook   | Fun and simple random meal picker app using JavaScript for quick meal ideas.                | [GitHub](https://github.com/Scoopy-Dooo/7-Whats-to-Cook)         | [Click to Visit Website](https://sco-whats-to-cook.netlify.app)       |
+| Contact Hub       | Contact management UI to add, view, and delete contacts with vanilla JS.                    | [GitHub](https://github.com/Scoopy-Dooo/8-Contact-Hub)           | [Click to Visit Website](https://sco-contact-manager.netlify.app)         |
 
 - And more Projects will be here soon 😁
 ---
