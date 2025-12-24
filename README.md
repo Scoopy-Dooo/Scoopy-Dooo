@@ -15,7 +15,6 @@ Below are some of my key projects showcasing my skills in web development.
 - JavaScript (ES6) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Responsive Design
 - Git & GitHub
-- Netlify
   
 ---
 
