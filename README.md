@@ -29,7 +29,8 @@ Below are some of my key projects showcasing my skills in web development.
 | Modabber             | Modern blog layout template for content creators and writers.                              | [GitHub](https://github.com/Scoopy-Dooo/5-Modabber)              | [Click to Visit Website](https://sco-modabber.netlify.app)            |
 | Gama Arena         | E-sports gaming platform landing page with vibrant design and interactive elements.        | [GitHub](https://github.com/Scoopy-Dooo/6-Gama-Arena)            | [Click to Visit Website](https://sco-game-arena.netlify.app)          |
 | Whats-to-Cook   | Fun and simple random meal picker app using JavaScript for quick meal ideas.                | [GitHub](https://github.com/Scoopy-Dooo/7-Whats-to-Cook)         | [Click to Visit Website](https://sco-whats-to-cook.netlify.app)       |
-| Contact Hub       | Contact management UI to add, view, and delete contacts with vanilla JS.                    | [GitHub](https://github.com/Scoopy-Dooo/8-Contact-Hub)           | [Click to Visit Website](https://sco-contact-manager.netlify.app)         |
+| Contact Hub       | Contact management UI to add, view, and delete contacts with JS.                    | [GitHub](https://github.com/Scoopy-Dooo/8-Contact-Hub)           | [Click to Visit Website](https://sco-contact-manager.netlify.app)
+| portfolio page       | showcase my projects, skills, and contact information as a Frontend Web Developer.                    | [GitHub](https://github.com/Scoopy-Dooo/9-portfolio)           | [Click to Visit Website](https://sco-portfolio.netlify.app)
 
 - And more Projects will be here soon 😁
 ---
