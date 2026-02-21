@@ -38,10 +38,9 @@ Below are some of my key projects showcasing my skills in web development.
 ## 📫 Get In Touch
 
 - [(GitHub Profile)](https://github.com/Scoopy-Dooo)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammedclan123567@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammedclan12345@gmail.com)
 - [![LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohasaad2018)  
-- [(Whatsapp)](https://wa.me/+249903449009)    
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohasaad2018)    
 
 ---
 
