@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohamed Saad [Scoopy Dooo]
-- Fresh Electrical & Eloctronic Engineer AT UofK
+- Fresh Electrical & Eloctronic Engineer From University of Khartoum At Sudan
 - 💻 Frontend Web Developer
 - 🌍 From Sudan
   
